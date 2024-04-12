@@ -13,3 +13,7 @@ I have a lot of ideas brewing in my head all the time. However, the chores of se
 So, I created this template because I wanted a quick way to create a new library and start working on it without worrying about setting up the project.
 
 This template includes pre-configured things that I usually use in my projects.
+
+## Sponsorship
+
+If you like the library please consider [supporting my work](https://github.com/sponsors/hazzik).
