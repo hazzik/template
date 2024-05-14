@@ -14,6 +14,18 @@ So, I created this template because I wanted a quick way to create a new library
 
 This template includes pre-configured things that I usually use in my projects.
 
+### How to use this template?
+
+1. Click on the "Use this template" button on the top right corner of this page.
+2. Fill in the repository name, description, and other details.
+3. Click on the "Create repository" button.
+4. Clone the repository to your local machine.
+5. Replace all references of `dotnet-lib-template` to your repository name.
+6. Replace all references of `TemplateProject` to your project name.
+7. Replace the content of this README.md file with your project's README.
+8. Replace the content of the LICENSE file with your project's license.
+9. Start working on your project.
+
 ## Sponsorship
 
 If you like the library please consider [supporting my work](https://github.com/sponsors/hazzik).
